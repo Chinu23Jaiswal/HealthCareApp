@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="servicesTest.UserServiceImplTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-06-30T05:59:25" hostname="DESKTOP-RL6OOBJ" time="2.563">
+  <properties/>
+  <testcase name="test_inValid_patientNotFound_loadUserByUsername()" classname="servicesTest.UserServiceImplTest" time="2.354"/>
+  <testcase name="test_mandatoryEmailEmpty_saveDoctor()" classname="servicesTest.UserServiceImplTest" time="0.1"/>
+  <testcase name="test_valid_patient_loadUserByUsername()" classname="servicesTest.UserServiceImplTest" time="0.007"/>
+  <testcase name="test_valid_doctor_loadUserByUsername()" classname="servicesTest.UserServiceImplTest" time="0.008"/>
+  <testcase name="test_invalidUsername_saveDoctor()" classname="servicesTest.UserServiceImplTest" time="0.006"/>
+  <testcase name="test_valid_saveDoctor()" classname="servicesTest.UserServiceImplTest" time="0.031"/>
+  <testcase name="test_mandatoryEmailEmpty_savePatient()" classname="servicesTest.UserServiceImplTest" time="0.008"/>
+  <testcase name="test_inValid_doctorNotFound_loadUserByUsername()" classname="servicesTest.UserServiceImplTest" time="0.006"/>
+  <testcase name="test_invalidUsername_savePatient()" classname="servicesTest.UserServiceImplTest" time="0.005"/>
+  <testcase name="test_valid_savePatient()" classname="servicesTest.UserServiceImplTest" time="0.004"/>
+  <testcase name="test_inValid_emptyId_loadUserByUsername()" classname="servicesTest.UserServiceImplTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
